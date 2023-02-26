@@ -4,6 +4,6 @@ date: 2022-11-19T10:05:56-06:00
 draft: true
 ---
 
-Hi! I'm Ryan. I'm a software engineer with 20 years of experience designing, building and shipping software for all sorts of companies. At those companies I've worn a variety of hats. I've been an individual contributor, an architect and a manager but the hat I'm currently wearing is consultant, working for Prime TSR helping companies modernize their applications and processes and taking it all to the cloud! 
+Hi I'm Ryan, a seasoned software engineer with over 20 years of experience in designing, developing, and delivering software solutions. As a consultant for Prime TSR, I help companies modernize their technology and processes and take them to the cloud. I have a solid background in the Microsoft stack, so I'm well-equipped to tackle technical challenges. However, I also recognize that technology is only half of the equation in delivering successful software. That's why I bring empathy and a servant leadership approach to the table, fostering an environment where people feel supported and valued, and are able to do their best work.
 
-I've primarly worked with the Microsoft stack, going all the way back to the pre-.NET days. Over the years though, I've learned that in order to ship successful software the tech behind it is only half the equation. The other half is working with people inside and outside of the team to make sure they are motivated, enthusiastic and driven.
+Outside of work, I'm a life-long learner and I love spending time with my family. I have a passion for science fiction and fantasy, and I love to immerse myself in new worlds and stories.

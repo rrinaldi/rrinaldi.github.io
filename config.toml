@@ -72,9 +72,9 @@ paginate = 8
       # URL of avatar shown in home page
       avatarURL = "/img/cartoon-avatar.jpg"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
-      title = ""
+      title = "Ryan Rinaldi"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Fixing bugs, writing code and helping people since 2000"
+      subtitle = "Empowering through tech and empathy"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
