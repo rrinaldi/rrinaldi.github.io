@@ -1,7 +1,7 @@
 ---
 title: "Wrangling in Legacy Code"
 date: 2023-02-04T09:54:12-06:00
-draft: true
+draft: false
 featuredimage: /posts/2023/wrangling-legacy-code-splash.jpg
 ---
 Working with legacy code can be a challenge, but with a few best practices in place, it can become a manageable task. Over the years, I've learned a few tips that make it easier for teams to get a grip on the codebase.
