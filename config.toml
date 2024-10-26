@@ -74,7 +74,7 @@ paginate = 8
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = "Ryan Rinaldi"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Empowering through tech and empathy"
+      subtitle = "Professional tech and people leader fueled by iced coffee and sarcasm."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
